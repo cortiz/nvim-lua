@@ -1,0 +1,6 @@
+require('settings')
+require('plugins')
+require('colors')
+require('keybindins')
+require('tree')
+require('statusline')
